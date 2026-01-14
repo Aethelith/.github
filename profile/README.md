@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aethelith/.github/refs/heads/main/assets/Cover.png" alt="Aethelith Cover" width="90%">
+  <img src="https://raw.githubusercontent.com/Aethelith/.github/refs/heads/main/assets/Cover.png" alt="Aethelith Cover" width="100%">
 </p>
 
 ---
